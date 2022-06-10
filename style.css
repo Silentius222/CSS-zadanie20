@@ -1,0 +1,39 @@
+.tło{
+    background-color: aqua;
+}
+
+.naglowek1{
+    background-color: silver;
+}
+
+.naglowek2{
+    background-color: blueviolet;
+}
+
+.paragraf1{
+    background-color: rgb(255, 123, 0);
+}
+
+.paragraf2{
+    background-color: rgb(255, 0, 106);
+}
+
+.item1{
+    color: rgb(26, 24, 23);
+}
+
+.item2{
+    color: rgb(47, 228, 11);
+}
+
+.item3{
+    color: rgb(132, 109, 216);
+}
+
+.item4{
+    color: rgb(252, 6, 6);
+}
+
+.item5{
+    color: rgb(248, 248, 248);
+}
